@@ -22,6 +22,7 @@
   <img align="right" alt="ge-yoda" src="https://media1.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif?cid=ecf05e47xdv8eed565lm4wf8g6vchegb8z5o3waedsxgyj7e&rid=giphy.gif&ct=g" width="350" height="230" frameBorder="0" class="giphy-embed" > 
 </div>
   
+ ##
 <div>
   <a href="https://www.instagram.com/gee.cordeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/GegeCordeiro#7719" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
