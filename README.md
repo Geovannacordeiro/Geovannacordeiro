@@ -18,7 +18,7 @@
   <img align="center" alt="ge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="ge-yoda" src="https://media1.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif?cid=ecf05e47xdv8eed565lm4wf8g6vchegb8z5o3waedsxgyj7e&rid=giphy.gif&ct=g" width="350" height="150" frameBorder="0" class="giphy-embed" > 
+  <img align="right" alt="ge-yoda" src="https://media1.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif?cid=ecf05e47xdv8eed565lm4wf8g6vchegb8z5o3waedsxgyj7e&rid=giphy.gif&ct=g" width="330" height="150" frameBorder="0" class="giphy-embed" > 
 </div>
   
  ##
