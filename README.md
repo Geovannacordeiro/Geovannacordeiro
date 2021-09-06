@@ -23,7 +23,7 @@
   
  ##
 <div>
- <a href="https://discord.gg/GegeCordeiro#7719" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="50" width="90"  target="_blank"></a> 
+ <a href="https://discord.gg/GegeCordeiro#7719" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="50" width="50"  target="_blank"></a> 
   <a href = "mailto:geovnnasouza852@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40" target="_blank"></a>
 </div>  
  <a href = "https://www.linkedin.com/in/geovanna-souza-cordeiro-7b845521a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="40"  target="_blank"></a>
