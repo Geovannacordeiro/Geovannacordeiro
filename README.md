@@ -14,7 +14,7 @@
   
  ##
   
-  <p align=center> -Linguagens. </p>
+  <p align=center> Linguagens De Conhecimento. </p>
 <div align=center> <br>  
   <img align="center"  height="40" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center"  height="40" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
