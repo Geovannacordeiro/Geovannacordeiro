@@ -17,6 +17,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannacordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
+<iframe src="https://giphy.com/embed/NRa7dRkMlVZRE5HUU4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thosewhocant-trutv-those-who-cant-twc301-NRa7dRkMlVZRE5HUU4">via GIPHY</a></p>">
+ 
 ##
   
   <p align=center> 𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐃𝐞 𝐂𝐨𝐧𝐡𝐞𝐜𝐢𝐦𝐞𝐧𝐭𝐨: </p>
