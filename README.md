@@ -32,7 +32,10 @@
 </div>
   
  ##
-<div>
+ 
+ 
+  <p align=center> Entre em contato em: </p>
+<div align="center">
  <a href="https://discord.gg/GegeCordeiro#7719" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
   <a href = "mailto:geovnnasouza852@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
  <a href = "https://www.linkedin.com/in/geovanna-souza-cordeiro-7b845521a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
