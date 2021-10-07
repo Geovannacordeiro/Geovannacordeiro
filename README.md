@@ -19,7 +19,7 @@
  
 ##
   
-  <p align=center> Linguagens De Conhecimento. </p>
+  <p align=center> 𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐃𝐞 𝐂𝐨𝐧𝐡𝐞𝐜𝐢𝐦𝐞𝐧𝐭𝐨. </p>
 <div align=center> <br>  
   <img align="center"  height="40" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center"  height="40" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -36,7 +36,7 @@
  ##
  
  
-  <p align=center> Entre em contato em: </p>
+  <p align=center> 𝐄𝐧𝐭𝐫𝐞 𝐞𝐦 𝐜𝐨𝐧𝐭𝐚𝐭𝐨: </p>
 <div align="center">
  <a href="https://discord.gg/GegeCordeiro#7719" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
   <a href = "mailto:geovnnasouza852@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
