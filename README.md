@@ -1,4 +1,4 @@
-###  <p align=center> Olá! I am Geovanna Cordeiro<br> <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> </p>
+###  <p align=center> <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Olá! I am Geovanna Cordeiro <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> </p>
 
 <p align=center>
 - 👩‍💻 Estudando programação.<br>
