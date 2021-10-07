@@ -5,6 +5,7 @@
 - 🤓 Futura information security.<br>
 - 🌍Estudando outras linguas.<br>
 - 🐱‍🏍Apaixonada por tecnologia.<br>
+ <br>
  Fique a vontade para visitar meus repositórios :)
 </p>
  
