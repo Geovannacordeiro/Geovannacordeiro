@@ -1,10 +1,10 @@
 ### Olá! I am Geovanna Cordeiro
 
 <p align=center>
-- 👩‍💻 Estudando programação.
-- 🤓 Futura information security.
-- 🌍Estudando outras linguas.
-- 🐱‍🏍Apaixonada por tecnologia 
+- 👩‍💻 Estudando programação.<br>
+- 🤓 Futura information security.<br>
+- 🌍Estudando outras linguas.<br>
+- 🐱‍🏍Apaixonada por tecnologia.<br>
  </p>
 ##
 <div>
