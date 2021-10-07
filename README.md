@@ -11,8 +11,6 @@
  <img height="200" width="410" src="https://media0.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif?cid=790b761199a44e6e546ca7b4c00bee9d9af010766cb8bfeb&rid=giphy.gif&ct=g"><br>
  <img height="30" width="40" src="https://img.icons8.com/cotton/64/000000/circled-down--v3.png"/>
 </p>
- 
-##
 
 <div align="center">
   <a href="https://github.com/Geovannacordeiro">
