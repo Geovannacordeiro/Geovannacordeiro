@@ -33,8 +33,6 @@
   <img align="center"  height="35" width="83" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
 </div>
-  
- ##
  
  
   <p align=center> 𝐄𝐧𝐭𝐫𝐞 𝐞𝐦 𝐜𝐨𝐧𝐭𝐚𝐭𝐨: </p>
