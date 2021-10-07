@@ -6,6 +6,7 @@
 - 🌍Estudando outras linguas.<br>
 - 🐱‍🏍Apaixonada por tecnologia.<br>
  </p>
+ 
 ##
 <div>
   <a href="https://github.com/Geovannacordeiro">
@@ -13,7 +14,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannacordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
- ##
+##
   
   <p align=center> Linguagens De Conhecimento. </p>
 <div align=center> <br>  
