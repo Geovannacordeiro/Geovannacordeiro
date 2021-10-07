@@ -8,8 +8,7 @@
  <br>
  𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 :) <br>
  <br>
- <img height="200" width="410" src="https://media0.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif?cid=790b761199a44e6e546ca7b4c00bee9d9af010766cb8bfeb&rid=giphy.gif&ct=g"><br>
- <img height="30" width="40" src="https://img.icons8.com/cotton/64/000000/circled-down--v3.png"/>
+ <img height="200" width="410" src="https://media0.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif?cid=790b761199a44e6e546ca7b4c00bee9d9af010766cb8bfeb&rid=giphy.gif&ct=g">
 </p>
 
 <div align="center">
