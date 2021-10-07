@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/Geovannacordeiro">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Geovannacordeiro"/> 
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Geovannacordeiro&layout=compact&langs_count=7&theme=tokyonight"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannacordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
