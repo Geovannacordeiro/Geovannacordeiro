@@ -12,8 +12,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannacordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  linguagens
+ ##
   
+  -linguagens
 <div style"display: inline_block"><br>  
   <img align="center" alt="ge-HTML" height="40" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="ge-CSS" height="40" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
