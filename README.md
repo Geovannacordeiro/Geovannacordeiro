@@ -1,4 +1,4 @@
-### Olá! I am Geovanna Cordeiro
+###  <p align=center> Olá! I am Geovanna Cordeiro </p>
 
 <p align=center>
 - 👩‍💻 Estudando programação.<br>
