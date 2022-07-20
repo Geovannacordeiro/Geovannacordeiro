@@ -22,8 +22,6 @@
   
   <p align=center> 𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐃𝐞 𝐂𝐨𝐧𝐡𝐞𝐜𝐢𝐦𝐞𝐧𝐭𝐨: </p>
 <div align=center> <br>  
-  <img align="center"  height="35" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center"  height="35" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center"  height="35" width="94" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center"  height="35" width="85" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center"  height="35" width="85" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
