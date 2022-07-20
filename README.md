@@ -4,7 +4,7 @@
 - 👩‍💻 Estudando programação.<br>
 - 🤓 Apaixonada pela área de information security.<br>
 - 🌍Estudando outras linguas.<br>
-- 🐱‍🏍Apaixonada por tecnologia.<br>
+- 🐱‍🏍Amantético por tecnologia.<br>
  <br>
  𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒊𝒔𝒊𝒕𝒂𝒓 𝒎𝒆𝒖𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐́𝒓𝒊𝒐𝒔 :) <br>
  <br>
