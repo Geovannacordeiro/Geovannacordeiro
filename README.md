@@ -2,7 +2,7 @@
 
 <p align=center>
 - 👩‍💻 Estudando programação.<br>
-- 🤓 Futura information security.<br>
+- 🤓 Apaixonada pela área de information security.<br>
 - 🌍Estudando outras linguas.<br>
 - 🐱‍🏍Apaixonada por tecnologia.<br>
  <br>
