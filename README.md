@@ -1,7 +1,8 @@
 ###  <p align=center> <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Olá! I am Geovanna Cordeiro <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> </p>
 
 <p align=center>
-- 👩‍💻 Estudando programação.<br>
+- 👩‍💻 Trabalhando na aréa de TI como Análise e Desenvolvimento de Sistemas.<br>
+- 🕵️ Estudando atualmente Cybersegurança.<br>
 - 🤓 Apaixonada pela área de information security.<br>
 - 🌍Estudando outras linguas.<br>
 - 🐱‍🏍Amantético por tecnologia.<br>
