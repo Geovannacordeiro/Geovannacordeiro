@@ -1,4 +1,4 @@
-###  <p align=center> <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Olá! I am Geovanna Cordeiro <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> </p>
+###  <pOlá! I am Geovanna Cordeiro </p>
 
 <p align=center>
 - 👩‍💻 Trabalhando como Analista De Desenvolvimento De Sistemas.<br>
